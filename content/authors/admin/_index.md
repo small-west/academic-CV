@@ -10,7 +10,7 @@ first_name: Xueya
 last_name: Zhou
 
 # Status emoji
-status: worried
+status: 
   icon: 😖
 
 # Is this the primary user of the site?
